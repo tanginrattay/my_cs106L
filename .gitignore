@@ -53,4 +53,4 @@ pyvenv.cfg
 pip-selfcheck.json
 
 # Nimir's environment
-compile_flags.txt
+.clangd
