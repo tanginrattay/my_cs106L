@@ -51,3 +51,6 @@ __pycache__/
 pyvenv.cfg
 .venv
 pip-selfcheck.json
+
+# Nimir's environment
+compile_flags.txt
